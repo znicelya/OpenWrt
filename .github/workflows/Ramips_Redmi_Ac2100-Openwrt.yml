@@ -1,4 +1,4 @@
-name: X86_64 OpenWrt
+name: Ramips MT7621 Redmi AC2100 OpenWrt
 
 on:
   workflow_dispatch:
