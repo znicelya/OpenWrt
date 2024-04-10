@@ -8,13 +8,13 @@ on:
 env:
   REPO_URL: https://github.com/coolsnowwolf/lede
   REPO_BRANCH: master
-  CONFIG_FILE: configs/x86_64.config
+  CONFIG_FILE: configs/ramips_redmi_ac2100.config
   DIY_SCRIPT: diy-script.sh
-  CLASH_KERNEL: amd64
+  CLASH_KERNEL: ramips
   CACHE_TOOLCHAIN: true
   UPLOAD_BIN_DIR: false
   FIRMWARE_RELEASE: true
-  FIRMWARE_TAG: X86_64
+  FIRMWARE_TAG: ramips_mt7621
   TZ: Asia/Shanghai
 
 jobs:
