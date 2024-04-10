@@ -1,4 +1,4 @@
-name: Ramips_Redmi_AC2100 OpenWrt
+name: Ramips_Redmi_AC2100 Mini OpenWrt
 
 on:
   workflow_dispatch:
